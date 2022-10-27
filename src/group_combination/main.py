@@ -1,6 +1,6 @@
 import numpy as np
 
-from group_count_assignment import GroupCountAssignment
+from src.group_combination.group_count_assignment import GroupCountAssignment
 
 if __name__ == "__main__":
     count_by_group = np.array([27, 19, 12,  9,  8,  7,  6])
